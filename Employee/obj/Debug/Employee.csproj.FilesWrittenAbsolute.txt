@@ -1,0 +1,5 @@
+/Users/slogger/Documents/Projects/CSharp/Employee/Employee/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/slogger/Documents/Projects/CSharp/Employee/Employee/bin/Employee.dll.mdb
+/Users/slogger/Documents/Projects/CSharp/Employee/Employee/bin/Employee.dll
+/Users/slogger/Documents/Projects/CSharp/Employee/Employee/obj/Debug/Employee.dll
+/Users/slogger/Documents/Projects/CSharp/Employee/Employee/obj/Debug/Employee.dll.mdb

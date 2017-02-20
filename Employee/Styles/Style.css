@@ -1,0 +1,73 @@
+﻿body {
+	font: 16px Arial, sans-serif;
+}
+
+form {
+	border: 1px solid blue;
+	padding: 10px;
+}
+
+/* Таблица */
+table {
+	border-collapse: collapse;
+	/*width: 500px;*/
+}
+/* Границы и размеры */
+table td, th {
+	border: 1px solid black;
+	width: 200px;
+}
+table tr {
+	height: 32px;
+}
+/* Подсветка */
+table tbody > tr:nth-child(odd) { 
+	background: #b8d1f3;
+}
+table tbody > tr:nth-child(even) {
+	background: #dae5f4;
+}
+/* Подсветка активной строки */
+table tbody > tr:hover {
+	background-color: red;
+	cursor: pointer;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50; /* зеленый */
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    margin: 10px 10px 0px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+input[type="submit"][disabled="disabled"] {
+	background-color: grey;
+}
+select, input[type="text"] {
+	border: 1px solid steelblue;
+	display: block; 
+	font-size: 12px;
+	width: 300px;
+	height: 24px;
+	margin: 0px 0px 10px 0;
+}
+
+select {
+	padding: 0px;
+	-webkit-appearance: none;
+	-webkit-border-radius: 0px;
+}
+
+.error {
+	border-color: red !important;
+}
+
+.require {
+	color: red;
+}

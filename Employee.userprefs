@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{1CBED814-2655-44AC-8DAF-5D4E14CA91E9}|">
+  <MonoDevelop.Ide.ItemProperties.Employee PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Employee/Data/Database.cs">
+    <Files>
+      <File FileName="Employee/Views/AddEmployee.aspx" Line="29" Column="8" />
+      <File FileName="Employee/Styles/Style.css" Line="13" Column="19" />
+      <File FileName="Employee/Scripts/Validate.js" Line="8" Column="33" />
+      <File FileName="Employee/Data/Support.cs" Line="11" Column="1" />
+      <File FileName="Employee/Views/AddEmployee.aspx.cs" Line="36" Column="12" />
+      <File FileName="Employee/Default.aspx.cs" Line="19" Column="29" />
+      <File FileName="Employee/Default.aspx" Line="6" Column="1" />
+      <File FileName="Employee/Models/Employee.cs" Line="19" Column="20" />
+      <File FileName="Employee/Data/Database.cs" Line="16" Column="17" />
+      <File FileName="Employee/Views/Details.aspx.cs" Line="18" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Employee" expanded="True">
+            <Node name="Employee" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Database.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+              <Node name="Styles" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="AddEmployee.aspx" expanded="True" />
+                <Node name="Details.aspx" expanded="True" />
+              </Node>
+              <Node name="Default.aspx" expanded="True" />
+              <Node name="Global.asax" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
